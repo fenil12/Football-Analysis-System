@@ -1,0 +1,328 @@
+player_id,player_name,club_id,country_id,position,jersey_no,nationality
+P0001,Adrian,CL21,CO08,LW,88,Netherlands
+P0001,Adrian,CL22,CO08,LW,88,Netherlands
+P0002,Aguero,CL24,CO06,F,51,Italy
+P0002,Aguero,CL29,CO06,F,51,Italy
+P0003,Alberto ,CL10,CO03,LB,74,Brasil
+P0003,Alberto ,CL23,CO03,LB,74,Brasil
+P0004,Alessandro  Florenzi,CL05,CO09,RW,26,Portugal
+P0004,Alessandro  Florenzi,CL20,CO09,RW,26,Portugal
+P0004,Alessandro  Florenzi,CL27,CO09,RW,26,Portugal
+P0005,Alessio Cerci,CL12,CO06,F,84,Italy
+P0005,Alessio Cerci,CL19,CO06,F,84,Italy
+P0006,Alex Chamberlain,CL12,CO06,RW,59,Italy
+P0006,Alex Chamberlain,CL19,CO06,RW,59,Italy
+P0007,Alexis Sanchez,CL24,CO06,RW,85,Italy
+P0007,Alexis Sanchez,CL29,CO06,RW,85,Italy
+P0008,Angel Di Maria,CL03,CO06,LW,87,Italy
+P0008,Angel Di Maria,CL12,CO06,LW,87,Italy
+P0008,Angel Di Maria,CL19,CO06,LW,87,Italy
+P0009,Antoine,CL06,CO04,LW,50,England
+P0009,Antoine,CL17,CO04,LW,50,England
+P0010,Antonio Cassano,CL05,CO05,F,70,Germany
+P0010,Antonio Cassano,CL08,CO05,F,70,Germany
+P0010,Antonio Cassano,CL20,CO05,F,70,Germany
+P0011,Armindo Bruma,CL13,CO10,LW,91,Spain
+P0011,Armindo Bruma,CL18,CO10,LW,91,Spain
+P0012,Barthez,CL21,CO10,GK,51,Spain
+P0012,Barthez,CL22,CO10,GK,51,Spain
+P0013,Bernd Leno,CL03,CO01,GK,2,Argentina
+P0013,Bernd Leno,CL28,CO01,GK,2,Argentina
+P0014,Bojan,CL03,CO01,RW,60,Argentina
+P0014,Bojan,CL28,CO01,RW,60,Argentina
+P0015,Buffon,CL01,CO07,GK,44,Mexico
+P0015,Buffon,CL14,CO07,GK,44,Mexico
+P0016,Cafu,CL08,CO05,CB,38,Germany
+P0016,Cafu,CL27,CO05,CB,38,Germany
+P0017,Carlos Vela,CL04,CO02,F,92,Belgium
+P0017,Carlos Vela,CL16,CO02,F,92,Belgium
+P0018,Carrick,CL02,CO07,CDM,8,Mexico
+P0018,Carrick,CL11,CO07,CDM,8,Mexico
+P0019,Carvajal,CL10,CO07,RB,39,Mexico
+P0019,Carvajal,CL23,CO07,RB,39,Mexico
+P0020,Cesc Fabregas,CL21,CO10,LW,6,Spain
+P0020,Cesc Fabregas,CL22,CO10,LW,6,Spain
+P0021,Chris Smalling,CL06,CO02,RB,39,Belgium
+P0021,Chris Smalling,CL17,CO02,RB,39,Belgium
+P0022,Daley Blind,CL24,CO06,CAM,81,Italy
+P0022,Daley Blind,CL29,CO06,CAM,81,Italy
+P0023,Dani Alves,CL13,CO08,RB,10,Netherlands
+P0023,Dani Alves,CL21,CO08,RB,10,Netherlands
+P0023,Dani Alves,CL22,CO08,RB,10,Netherlands
+P0024,Daniel Sturridge,CL10,CO03,ST,27,Brasil
+P0024,Daniel Sturridge,CL23,CO03,ST,27,Brasil
+P0025,Danny Welbeck,CL05,CO09,ST,88,Portugal
+P0025,Danny Welbeck,CL20,CO09,ST,88,Portugal
+P0026,David Alaba,CL03,CO01,LB,24,Argentina
+P0026,David Alaba,CL19,CO01,LB,24,Argentina
+P0026,David Alaba,CL28,CO01,LB,24,Argentina
+P0027,David De Gea,CL24,CO01,GK,34,Argentina
+P0027,David De Gea,CL29,CO01,GK,34,Argentina
+P0028,David Villa,CL04,CO04,LW,63,England
+P0028,David Villa,CL16,CO04,LW,63,England
+P0029,Diego Coasta,CL09,CO09,ST,5,Portugal
+P0029,Diego Coasta,CL26,CO09,ST,5,Portugal
+P0030,Eden Hazard,CL09,CO05,LW,75,Germany
+P0030,Eden Hazard,CL26,CO05,LW,75,Germany
+P0031,Edin Dzeko,CL01,CO03,ST,86,Brasil
+P0031,Edin Dzeko,CL14,CO03,ST,86,Brasil
+P0032,Edison Cavani,CL10,CO03,ST,91,Brasil
+P0032,Edison Cavani,CL23,CO03,ST,91,Brasil
+P0033,Emiliano,CL07,CO08,LB,34,Netherlands
+P0033,Emiliano,CL25,CO08,LB,34,Netherlands
+P0034,Erik Lamela,CL12,CO01,RW,38,Argentina
+P0034,Erik Lamela,CL19,CO01,RW,38,Argentina
+P0035,Etienne,CL15,CO02,CDM,88,Belgium
+P0035,Etienne,CL30,CO02,CDM,88,Belgium
+P0036,Evans,CL01,CO03,LB,56,Brasil
+P0036,Evans,CL14,CO03,LB,56,Brasil
+P0037,Ezequiel Lavezzi,CL07,CO10,LW,16,Spain
+P0037,Ezequiel Lavezzi,CL25,CO10,LW,16,Spain
+P0038,Ezra Rojas,CL08,CO05,CDM,41,Germany
+P0038,Ezra Rojas,CL27,CO05,CDM,41,Germany
+P0039,Fabio,CL04,CO04,LB,96,England
+P0039,Fabio,CL15,CO04,LB,96,England
+P0039,Fabio,CL30,CO04,LB,96,England
+P0040,Fabio Alexandre,CL09,CO09,LB,16,Portugal
+P0040,Fabio Alexandre,CL26,CO09,LB,16,Portugal
+P0041,Ferdinand,CL01,CO03,LB,76,Brasil
+P0041,Ferdinand,CL14,CO03,LB,76,Brasil
+P0042,Filipe luis,CL01,CO03,LB,76,Brasil
+P0042,Filipe luis,CL14,CO03,LB,76,Brasil
+P0043,Fletcher,CL04,CO04,CAM,28,England
+P0043,Fletcher,CL16,CO04,CAM,28,England
+P0044,Forrest Bradford,CL03,CO06,LB,97,Italy
+P0044,Forrest Bradford,CL28,CO06,LB,97,Italy
+P0045,Francesco,CL09,CO05,F,55,Germany
+P0045,Francesco,CL26,CO05,F,55,Germany
+P0046,Frank Lampard,CL05,CO09,CAM,99,Portugal
+P0046,Frank Lampard,CL20,CO09,CAM,99,Portugal
+P0047,Fredericka Cleveland,CL07,CO10,CAM,73,Spain
+P0047,Fredericka Cleveland,CL21,CO10,CAM,73,Spain
+P0047,Fredericka Cleveland,CL22,CO10,CAM,73,Spain
+P0048,Gabriel,CL08,CO05,F,82,Germany
+P0048,Gabriel,CL09,CO05,F,82,Germany
+P0048,Gabriel,CL27,CO05,F,82,Germany
+P0049,Gareth Bale,CL13,CO10,F,7,Spain
+P0049,Gareth Bale,CL18,CO10,F,7,Spain
+P0050,George Cross,CL09,CO09,RW,29,Portugal
+P0050,George Cross,CL20,CO09,RW,29,Portugal
+P0050,George Cross,CL26,CO09,RW,29,Portugal
+P0051,Gerrad Pique,CL13,CO08,CB,35,Netherlands
+P0051,Gerrad Pique,CL18,CO08,CB,35,Netherlands
+P0052,Giggs,CL02,CO03,LW,11,Brasil
+P0052,Giggs,CL11,CO03,LW,11,Brasil
+P0053,Hernandez,CL03,CO01,ST,72,Argentina
+P0053,Hernandez,CL28,CO01,ST,72,Argentina
+P0054,Hugo,CL13,CO10,RB,52,Spain
+P0054,Hugo,CL18,CO10,RB,52,Spain
+P0054,Hugo,CL21,CO10,RB,52,Spain
+P0055,Hugo Lloris,CL02,CO03,GK,64,Brasil
+P0055,Hugo Lloris,CL11,CO03,GK,64,Brasil
+P0056,Hulk,CL06,CO04,RW,80,England
+P0056,Hulk,CL17,CO04,RW,80,England
+P0057,Iker Casillas,CL15,CO04,GK,78,England
+P0057,Iker Casillas,CL30,CO04,GK,78,England
+P0058,Ima Hoover,CL21,CO08,RB,16,Netherlands
+P0058,Ima Hoover,CL22,CO08,RB,16,Netherlands
+P0059,Isco,CL05,CO09,CAM,43,Portugal
+P0059,Isco,CL20,CO09,CAM,43,Portugal
+P0060,Jamea,CL07,CO10,F,19,Spain
+P0060,Jamea,CL18,CO10,F,19,Spain
+P0060,Jamea,CL25,CO10,F,19,Spain
+P0061,Javier Manquillo,CL09,CO05,RB,4,Germany
+P0061,Javier Manquillo,CL26,CO05,RB,4,Germany
+P0062,Javier Mascherano,CL24,CO01,CB,21,Argentina
+P0062,Javier Mascherano,CL29,CO01,CB,21,Argentina
+P0063,Jerome Boateng,CL03,CO06,CB,96,Italy
+P0063,Jerome Boateng,CL28,CO06,CB,96,Italy
+P0064,Joe Hart,CL05,CO09,GK,46,Portugal
+P0064,Joe Hart,CL20,CO09,GK,46,Portugal
+P0065,Joel Campbell,CL21,CO08,RW,13,Netherlands
+P0065,Joel Campbell,CL22,CO08,RW,13,Netherlands
+P0066,Jonas,CL06,CO02,F,48,Belgium
+P0066,Jonas,CL17,CO02,F,48,Belgium
+P0067,Jordi Alba,CL02,CO03,LB,81,Brasil
+P0067,Jordi Alba,CL11,CO03,LB,81,Brasil
+P0068,Jose Enrique,CL05,CO05,LB,34,Germany
+P0068,Jose Enrique,CL20,CO05,LB,34,Germany
+P0069,Juan Isaac,CL12,CO06,RW,98,Italy
+P0069,Juan Isaac,CL19,CO06,RW,98,Italy
+P0070,Juan Manuel,CL21,CO10,CAM,82,Spain
+P0070,Juan Manuel,CL22,CO10,CAM,82,Spain
+P0071,Kayler Navas,CL01,CO07,GK,75,Mexico
+P0071,Kayler Navas,CL14,CO07,GK,75,Mexico
+P0072,Lani Hoffman,CL07,CO10,LB,55,Spain
+P0072,Lani Hoffman,CL25,CO10,LB,55,Spain
+P0073,Lindegaard,CL24,CO01,GK,11,Argentina
+P0073,Lindegaard,CL29,CO01,GK,11,Argentina
+P0074,Lucas,CL15,CO02,LB,21,Belgium
+P0074,Lucas,CL30,CO02,LB,21,Belgium
+P0075,Lucas Piazon,CL13,CO08,LW,88,Netherlands
+P0075,Lucas Piazon,CL18,CO08,LW,88,Netherlands
+P0076,Luis Suarez,CL24,CO06,ST,88,Italy
+P0076,Luis Suarez,CL29,CO06,ST,88,Italy
+P0077,LuisRonaldo,CL07,CO10,F,5,Spain
+P0077,LuisRonaldo,CL18,CO10,F,5,Spain
+P0077,LuisRonaldo,CL25,CO10,F,5,Spain
+P0078,Luke Shaw,CL07,CO08,RB,57,Netherlands
+P0078,Luke Shaw,CL22,CO08,RB,57,Netherlands
+P0078,Luke Shaw,CL25,CO08,RB,57,Netherlands
+P0079,Manuel Neuer,CL15,CO02,GK,28,Belgium
+P0079,Manuel Neuer,CL17,CO02,GK,28,Belgium
+P0079,Manuel Neuer,CL30,CO02,GK,28,Belgium
+P0080,Marcelo,CL08,CO09,LB,85,Portugal
+P0080,Marcelo,CL26,CO09,LB,85,Portugal
+P0080,Marcelo,CL27,CO09,LB,85,Portugal
+P0081,Marco,CL06,CO04,CDM,17,England
+P0081,Marco,CL17,CO04,CDM,17,England
+P0082,Marco Rojo,CL04,CO02,RB,17,Belgium
+P0082,Marco Rojo,CL16,CO02,RB,17,Belgium
+P0083,Marcos Junio,CL24,CO01,F,24,Argentina
+P0083,Marcos Junio,CL28,CO01,F,24,Argentina
+P0083,Marcos Junio,CL29,CO01,F,24,Argentina
+P0084,Mario Balotelli,CL12,CO06,ST,28,Italy
+P0084,Mario Balotelli,CL19,CO06,ST,28,Italy
+P0085,Mario Gomez,CL13,CO08,ST,73,Netherlands
+P0085,Mario Gomez,CL18,CO08,ST,73,Netherlands
+P0085,Mario Gomez,CL25,CO08,ST,73,Netherlands
+P0086,Mario Gotze,CL06,CO04,CAM,3,England
+P0086,Mario Gotze,CL15,CO04,CAM,3,England
+P0086,Mario Gotze,CL17,CO04,CAM,3,England
+P0087,Mario Mandzukic,CL15,CO04,ST,3,England
+P0087,Mario Mandzukic,CL30,CO04,ST,3,England
+P0088,Mats Hummels,CL01,CO07,CB,22,Mexico
+P0088,Mats Hummels,CL14,CO07,CB,22,Mexico
+P0089,Max Kruse,CL08,CO05,F,24,Germany
+P0089,Max Kruse,CL27,CO05,F,24,Germany
+P0090,Maximilian,CL02,CO07,CAM,13,Mexico
+P0090,Maximilian,CL11,CO07,CAM,13,Mexico
+P0091,Memphis Depay,CL10,CO07,LW,74,Mexico
+P0091,Memphis Depay,CL23,CO07,LW,74,Mexico
+P0092,Mertesacker,CL05,CO05,CB,43,Germany
+P0092,Mertesacker,CL20,CO05,CB,43,Germany
+P0093,Messi,CL24,CO01,LB,57,Argentina
+P0093,Messi,CL29,CO01,LB,57,Argentina
+P0094,Mesut Ozil,CL04,CO02,CAM,43,Belgium
+P0094,Mesut Ozil,CL16,CO02,CAM,43,Belgium
+P0095,Nani,CL01,CO03,LW,68,Brasil
+P0095,Nani,CL14,CO03,LW,68,Brasil
+P0096,Neymar,CL02,CO07,LW,55,Mexico
+P0096,Neymar,CL11,CO07,LW,55,Mexico
+P0097,Noah Whitfield,CL15,CO02,CAM,27,Belgium
+P0097,Noah Whitfield,CL30,CO02,CAM,27,Belgium
+P0098,Olivier Girioud,CL12,CO01,ST,78,Argentina
+P0098,Olivier Girioud,CL19,CO01,ST,78,Argentina
+P0098,Olivier Girioud,CL24,CO01,ST,78,Argentina
+P0099,Oscar,CL08,CO09,CAM,63,Portugal
+P0099,Oscar,CL27,CO09,CAM,63,Portugal
+P0100,Pablo,CL03,CO01,RB,31,Argentina
+P0100,Pablo,CL28,CO01,RB,31,Argentina
+P0101,Patrice Evra,CL03,CO06,LB,29,Italy
+P0101,Patrice Evra,CL12,CO06,LB,29,Italy
+P0101,Patrice Evra,CL28,CO06,LB,29,Italy
+P0102,Paul Scholes,CL12,CO01,CAM,36,Argentina
+P0102,Paul Scholes,CL19,CO01,CAM,36,Argentina
+P0103,Paulo Dybala,CL02,CO07,F,13,Mexico
+P0103,Paulo Dybala,CL11,CO07,F,13,Mexico
+P0104,Pedro,CL06,CO02,RW,65,Belgium
+P0104,Pedro,CL17,CO02,RW,65,Belgium
+P0105,Petr Cech,CL02,CO03,GK,23,Brasil
+P0105,Petr Cech,CL11,CO03,GK,23,Brasil
+P0106,Phelan Sampson,CL08,CO09,RB,65,Portugal
+P0106,Phelan Sampson,CL27,CO09,RB,65,Portugal
+P0107,Phil Jones,CL21,CO10,RB,77,Spain
+P0107,Phil Jones,CL22,CO10,RB,77,Spain
+P0108,Philipp Lahm,CL03,CO06,RB,93,Italy
+P0108,Philipp Lahm,CL28,CO06,RB,93,Italy
+P0109,Pires,CL09,CO09,RW,25,Portugal
+P0109,Pires,CL26,CO09,RW,25,Portugal
+P0110,Radamel Falcao,CL15,CO04,ST,80,England
+P0110,Radamel Falcao,CL30,CO04,ST,80,England
+P0111,Rafael,CL21,CO08,RB,68,Netherlands
+P0111,Rafael,CL22,CO08,RB,68,Netherlands
+P0112,Ramires,CL01,CO07,CDM,92,Mexico
+P0112,Ramires,CL14,CO07,CDM,92,Mexico
+P0113,Raphael Varane,CL10,CO07,CB,96,Mexico
+P0113,Raphael Varane,CL23,CO07,CB,96,Mexico
+P0114,Ribery,CL13,CO10,RW,66,Spain
+P0114,Ribery,CL18,CO10,RW,66,Spain
+P0115,Ricardo,CL04,CO04,F,36,England
+P0115,Ricardo,CL06,CO04,F,36,England
+P0115,Ricardo,CL16,CO04,F,36,England
+P0116,Rivaldo,CL10,CO07,F,35,Mexico
+P0116,Rivaldo,CL23,CO07,F,35,Mexico
+P0117,Robben,CL07,CO10,RW,94,Spain
+P0117,Robben,CL13,CO10,RW,94,Spain
+P0117,Robben,CL18,CO10,RW,94,Spain
+P0118,Robert Lewandoski,CL15,CO04,ST,98,England
+P0118,Robert Lewandoski,CL30,CO04,ST,98,England
+P0119,Ronaldinho,CL10,CO03,RW,60,Brasil
+P0119,Ronaldinho,CL23,CO03,RW,60,Brasil
+P0120,Ronaldo,CL08,CO09,F,33,Portugal
+P0120,Ronaldo,CL27,CO09,F,33,Portugal
+P0121,Samir Handanovic,CL13,CO08,GK,66,Netherlands
+P0121,Samir Handanovic,CL18,CO08,GK,66,Netherlands
+P0122,Sandro,CL01,CO03,CDM,74,Brasil
+P0122,Sandro,CL14,CO03,CDM,74,Brasil
+P0123,Santiago Arias,CL07,CO08,RB,84,Netherlands
+P0123,Santiago Arias,CL25,CO08,RB,84,Netherlands
+P0124,SebastianGiovinco,CL06,CO02,F,45,Belgium
+P0124,SebastianGiovinco,CL17,CO02,F,45,Belgium
+P0125,Sergio Ramos,CL06,CO04,CB,24,England
+P0125,Sergio Ramos,CL17,CO04,CB,24,England
+P0126,Sirigu,CL09,CO05,GK,7,Germany
+P0126,Sirigu,CL26,CO05,GK,7,Germany
+P0127,Stephan,CL05,CO05,LW,40,Germany
+P0127,Stephan,CL20,CO05,LW,40,Germany
+P0128,Tallulah Leach,CL05,CO05,CB,28,Germany
+P0128,Tallulah Leach,CL09,CO05,CB,28,Germany
+P0128,Tallulah Leach,CL26,CO05,CB,28,Germany
+P0129,Ter Stegen,CL10,CO07,GK,88,Mexico
+P0129,Ter Stegen,CL23,CO07,GK,88,Mexico
+P0130,Thiago Alcântara,CL07,CO08,CAM,59,Netherlands
+P0130,Thiago Alcântara,CL25,CO08,CAM,59,Netherlands
+P0131,Thiago Silva,CL02,CO03,CB,66,Brasil
+P0131,Thiago Silva,CL11,CO03,CB,66,Brasil
+P0132,Thibaut Courtois,CL24,CO06,GK,79,Italy
+P0132,Thibaut Courtois,CL29,CO06,GK,79,Italy
+P0133,Thierry Henry,CL04,CO02,F,99,Belgium
+P0133,Thierry Henry,CL16,CO02,F,99,Belgium
+P0133,Thierry Henry,CL30,CO02,F,99,Belgium
+P0134,Tim Krul,CL08,CO09,GK,96,Portugal
+P0134,Tim Krul,CL27,CO09,GK,96,Portugal
+P0135,Tomas Kalas,CL12,CO01,RB,53,Argentina
+P0135,Tomas Kalas,CL19,CO01,RB,53,Argentina
+P0136,Tomas Rosicky,CL07,CO08,CAM,65,Netherlands
+P0136,Tomas Rosicky,CL13,CO08,CAM,65,Netherlands
+P0136,Tomas Rosicky,CL25,CO08,CAM,65,Netherlands
+P0137,Toni Kroos,CL03,CO06,CAM,46,Italy
+P0137,Toni Kroos,CL28,CO06,CAM,46,Italy
+P0138,Ulysses Blair,CL04,CO04,RW,60,England
+P0138,Ulysses Blair,CL16,CO04,RW,60,England
+P0139,Valencia,CL06,CO02,RW,98,Belgium
+P0139,Valencia,CL16,CO02,RW,98,Belgium
+P0139,Valencia,CL17,CO02,RW,98,Belgium
+P0140,Van Persie,CL09,CO09,ST,18,Portugal
+P0140,Van Persie,CL26,CO09,ST,18,Portugal
+P0141,Victor Valvdes,CL13,CO08,GK,93,Netherlands
+P0141,Victor Valvdes,CL18,CO08,GK,93,Netherlands
+P0141,Victor Valvdes,CL25,CO08,GK,93,Netherlands
+P0142,Vidic,CL08,CO05,CB,76,Germany
+P0142,Vidic,CL27,CO05,CB,76,Germany
+P0143,Vieri,CL05,CO02,LW,71,Belgium
+P0143,Vieri,CL20,CO02,LW,71,Belgium
+P0144,Viktor Fischer,CL15,CO02,LW,71,Belgium
+P0144,Viktor Fischer,CL30,CO02,LW,71,Belgium
+P0145,Vincent Kompany,CL07,CO10,RB,55,Spain
+P0145,Vincent Kompany,CL25,CO10,RB,55,Spain
+P0146,Vladimir,CL04,CO02,LW,8,Belgium
+P0146,Vladimir,CL16,CO02,LW,8,Belgium
+P0147,Wayne Rooney,CL10,CO03,F,91,Brasil
+P0147,Wayne Rooney,CL23,CO03,F,91,Brasil
+P0148,Willian,CL02,CO07,LW,31,Mexico
+P0148,Willian,CL11,CO07,LW,31,Mexico
+P0149,Zlatan Ibrahimovic,CL12,CO01,ST,20,Argentina
+P0149,Zlatan Ibrahimovic,CL19,CO01,ST,20,Argentina
+P0150,javi Martinez,CL04,CO04,CDM,93,England
+P0150,javi Martinez,CL16,CO04,CDM,93,England

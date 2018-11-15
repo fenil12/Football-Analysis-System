@@ -1,0 +1,31 @@
+club_id,league_id,club_name,manager,owner
+CL01,L03, Atheletico Madrid,Alvin Lucas,Dean Green
+CL02,L02,Arsenal,Caesar Townsend,Brandon Townsend
+CL03,L02,Aston Villa,Hamish Clayton,Sylvester Campos
+CL04,L03,Atheletico Bilbao,Murphy Strong,Erich Bird
+CL05,L03,Barcelona,Malik Sanders,Curran Drake
+CL06,L01,Bayern Leverkusan,Mollie Ferguson,Hilel Nixon
+CL07,L01,Bayern Munich,Yvonne Bryan,Erich Navarro
+CL08,L02,Chelsea,Bruce Bray,Beck Bell
+CL09,L01,Dortmund,Ursa Finch,Yasir Conley
+CL10,L02,Everton,Hayes Bowman,Roth Rice
+CL11,L01,FC Koln,Dante Castillo,Cyrus Sutton
+CL12,L01,Hamburger SV,Chelsea Mendoza,Anthony Weeks
+CL13,L01,Hannover 96,Chava Rosales,Harlan Dudley
+CL14,L03,Levante,Tyler Morin,Tyler Carver
+CL15,L02,Liverpool,Kato Carver,Wyatt Joyner
+CL16,L03,Malaga FC,Axel Farley,Graiden Rowe
+CL17,L02,Man City,Damian Hancock,Joshua Little
+CL18,L02,ManUtd,Theodore Mcguire,Baxter Stephens
+CL19,L02,NewCastle,Finn Finch,Emery Woods
+CL20,L03,RCD Espanyol,Jason Hahn,Maxwell Bates
+CL21,L03,Real Madrid,Tad Gardner,Christopher Wilder
+CL22,L03,Real Sociedad,Edward Chase,Wyatt Hernandez
+CL23,L01,Schalke,Wanda Mayer,Adam Strickland
+CL24,L03,Sevilla FC,Tad Glenn,Hamilton Cobb
+CL25,L03,Sunderland,Zachary Burgess,Marsden Clements
+CL26,L02,Swanswa City,Duncan Navarro,Caleb Cote
+CL27,L01,VFB Stuttgart,Kaseem Marsh,Todd Emerson
+CL28,L01,VFL Wolfsburg,Upton Campbell,Zephania Harding
+CL29,L03,Valencia,Phelan Rollins,Fuller Odom
+CL30,L01,Wreder Brewman,Lacota Ramsey,Brady Kelly
